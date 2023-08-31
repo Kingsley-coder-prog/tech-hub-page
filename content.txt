@@ -1,0 +1,48 @@
+// <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+
+
+// after hero section
+The Ultimate Tech Training Ground
+Welcome to USC-hub.io, your comprehensive training hub for nailing tech jobs. We're your secret weapon in conquering system design and coding jobs, preparing you from all angles to land your dream job.
+
+#f9fafc // navbar background-color
+
+#152238 // after below-hero background-color
+
+#004e98 //button color
+
+#eef7ff // below-hero background-color
+
+System Design Interview Roadmap
+
+Revolutionize your understanding of system design with our diverse course offerings. Designed for everyone, from beginners to seasoned professionals, our courses empower you to level up your system design skills and impress in your next interview..
+
+Comprehensive Course Offerings
+Real-World System Design Case Studies
+Regular Content Updates
+Engaging Peer Community
+
+
+Coding Interview Roadmap
+
+Our courses are designed to accelerate your preparation for the coding interviews. Say goodbye to conventional methods and dive into our engaging, pattern-based learning experience. Unlock the power of coding patterns with our meticulously curated courses, tailored to transform the way you approach and excel in coding interviews.
+
+Accelerated Pattern-Based Learning
+Interactive Coding Exercises
+Active Community Forum
+
+
+
+Coding Right in Your Browser
+
+Experience a seamless, interactive environment where you can tackle coding problems, execute your solutions, and benchmark your results against the correct answers.
+
+Real-Time Code Execution
+Instant Solution Comparison
+Integrated Problem Sets
+
+
+#Testimonial
+Hear from Successful Tech Professionals
