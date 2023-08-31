@@ -30,14 +30,16 @@ body {
 .header-area {
   display: flex;
   justify-content: space-between;
-  width: 1400px;
+  width: 1600px;
   margin: 0 auto;
   padding: 20px 0;
 }
 
 .logo {
   display: flex;
+  align-items: center;
   gap: 10px;
+  font-size: 40px;
 }
 
 .logo img {
@@ -368,4 +370,39 @@ body {
 
 .testimonial-section {
   background-color: #c2c2c733;
+}
+
+/* FOOTER AREA */
+.footer-section {
+  background-color: #152238;
+}
+
+.footer-area {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 100px 0;
+  color: #fff;
+}
+
+.footer-top {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding-bottom: 50px;
+}
+
+.footer-top .logo {
+  display: flex;
+  align-items: center;
+  font-size: 40px;
+}
+
+.footer-top p {
+  color: #fff;
+}
+
+.brand-area img {
+  width: 40px;
+  height: 40px;
+  color: #fff;
 }
