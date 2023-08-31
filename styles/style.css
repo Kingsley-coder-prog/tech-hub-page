@@ -303,9 +303,6 @@ body {
 }
 
 .card-area {
-}
-
-/* .card-area {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 40px;
@@ -321,6 +318,8 @@ body {
   border-top: 5px solid #0364be;
   box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.37);
 }
+
+/* 
 
 .card-header {
   display: flex;
